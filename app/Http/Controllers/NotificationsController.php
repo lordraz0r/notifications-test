@@ -4,7 +4,6 @@ namespace App\Http\Controllers;
 
 use App\Notification;
 use Illuminate\Http\Request;
-use Illuminate\Http\Resources\Json\PaginatedResourceResponse;
 
 
 class NotificationsController extends Controller
